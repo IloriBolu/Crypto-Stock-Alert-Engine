@@ -1,0 +1,13 @@
+# Secrets and local env
+.env
+
+# Virtual environment
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Git / editor
+.git/
+.gitignore
